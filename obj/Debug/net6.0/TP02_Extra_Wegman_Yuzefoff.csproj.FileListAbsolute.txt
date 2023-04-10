@@ -1,0 +1,15 @@
+Z:\Programacion4\TP02_Extra_Wegman_Yuzefoff\bin\Debug\net6.0\TP02_Extra_Wegman_Yuzefoff.exe
+Z:\Programacion4\TP02_Extra_Wegman_Yuzefoff\bin\Debug\net6.0\TP02_Extra_Wegman_Yuzefoff.deps.json
+Z:\Programacion4\TP02_Extra_Wegman_Yuzefoff\bin\Debug\net6.0\TP02_Extra_Wegman_Yuzefoff.runtimeconfig.json
+Z:\Programacion4\TP02_Extra_Wegman_Yuzefoff\bin\Debug\net6.0\TP02_Extra_Wegman_Yuzefoff.dll
+Z:\Programacion4\TP02_Extra_Wegman_Yuzefoff\bin\Debug\net6.0\TP02_Extra_Wegman_Yuzefoff.pdb
+Z:\Programacion4\TP02_Extra_Wegman_Yuzefoff\obj\Debug\net6.0\TP02_Extra_Wegman_Yuzefoff.csproj.AssemblyReference.cache
+Z:\Programacion4\TP02_Extra_Wegman_Yuzefoff\obj\Debug\net6.0\TP02_Extra_Wegman_Yuzefoff.GeneratedMSBuildEditorConfig.editorconfig
+Z:\Programacion4\TP02_Extra_Wegman_Yuzefoff\obj\Debug\net6.0\TP02_Extra_Wegman_Yuzefoff.AssemblyInfoInputs.cache
+Z:\Programacion4\TP02_Extra_Wegman_Yuzefoff\obj\Debug\net6.0\TP02_Extra_Wegman_Yuzefoff.AssemblyInfo.cs
+Z:\Programacion4\TP02_Extra_Wegman_Yuzefoff\obj\Debug\net6.0\TP02_Extra_Wegman_Yuzefoff.csproj.CoreCompileInputs.cache
+Z:\Programacion4\TP02_Extra_Wegman_Yuzefoff\obj\Debug\net6.0\TP02_Extra_Wegman_Yuzefoff.dll
+Z:\Programacion4\TP02_Extra_Wegman_Yuzefoff\obj\Debug\net6.0\refint\TP02_Extra_Wegman_Yuzefoff.dll
+Z:\Programacion4\TP02_Extra_Wegman_Yuzefoff\obj\Debug\net6.0\TP02_Extra_Wegman_Yuzefoff.pdb
+Z:\Programacion4\TP02_Extra_Wegman_Yuzefoff\obj\Debug\net6.0\TP02_Extra_Wegman_Yuzefoff.genruntimeconfig.cache
+Z:\Programacion4\TP02_Extra_Wegman_Yuzefoff\obj\Debug\net6.0\ref\TP02_Extra_Wegman_Yuzefoff.dll
